@@ -9,5 +9,7 @@
 * https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template/
 * http://dissovet.itmo.ru/index.php?main=112
 
+* https://github.com/hklcf/debian-ssh-docker
+
 * https://github.com/sshnet/SSH.NET
 
