@@ -1,2 +1,2 @@
-docker build -t dockerlatex latex
+docker build -t sshlatex sshlatex
 pause
