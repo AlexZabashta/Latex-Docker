@@ -23,8 +23,9 @@
 ## 1. Запуск Docker-Machine
 Для работы необходимо сперва запустить *Docker машину*. Это можно сделать **одним** из следующих способов:
 1. Нажав на кнопку **Start docker-machine** в **LatexSSH.exe**.
-2. Запустив ярлык **Docker Quickstart Terminal** с рабочего стола.
+2. Запустив ярлык **Docker Quickstart Terminal** с рабочего стола, либо **docker-start.cmd** из папки *Docker Toolbox*.
 3. Запустив **start-docker-machine.bat** из папки **LatexSSH**.
+
 Если вы закрыли приложение **LatexSSH.exe** и открыли его опять, запускать *Docker машину* заново не требуется.
 
 ## 2. Запуск Docker контейнера
